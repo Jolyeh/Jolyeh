@@ -10,11 +10,11 @@ Passionné par la création d'expériences numériques à fort impact. Je conço
 
 - **Flutter**: Création d'applications mobiles fluides et multiplateformes avec des interfaces utilisateur soignées.
 
-- **Laravel**: Développement d'APIs RESTful robustes et conception de systèmes backend sécurisés avec bases de données.
+- **Express Js**: Développement d'APIs RESTful robustes et conception de systèmes backend sécurisés avec bases de données.
 
-- **Angular**: Construction d'applications web complexes et évolutives avec une gestion avancée des états.
+- **Svelte/Angular**: Construction d'applications web complexes et évolutives avec une gestion avancée des états.
 
-- **Electron.js**: Réalisation d'applications de bureau performantes compatibles avec tous les systèmes d'exploitation.
+- **Electron Js**: Réalisation d'applications de bureau performantes compatibles avec tous les systèmes d'exploitation.
 
 ## 🧰 Mes outils préférés
 
