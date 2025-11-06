@@ -32,9 +32,7 @@ Passionné par la création d'expériences numériques à fort impact. Je conço
 
 ## 📊 Mes statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Jolyeh&show_icons=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Jolyeh&layout=compact&theme=tokyonight)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Jolyeh&show_icons=true&theme=tokyonight) ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Jolyeh&layout=compact&theme=tokyonight)
 
 ## 💼 Expérience
 
